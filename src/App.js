@@ -44,7 +44,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <p>
-            Bluth Reals Estate
+            Bluth Real Estate
           </p>
         </header>
         <p>Interested in the best properties in Arizona?  Fill out this quick form for more info</p>
